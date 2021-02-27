@@ -1,0 +1,182 @@
+body {
+  font-family: Montserrat;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+.navbar {
+  background-color: white;
+  font-family: Montserrat !important;
+  font-weight: 400 !important;
+  font-size: 18px;
+}
+
+.navbar-brand {
+  width: 15%;
+  margin-top: -10px;
+  margin-bottom: -12px;
+}
+
+.main-image {
+  background-position: center;
+  width: 100%;
+}
+
+.tripadvisor {
+  width: 150px;
+  margin-left: 1050px;
+  position: absolute;
+}
+
+/* .title-image {
+  width: ;
+} */
+.tour-image {
+  width: 300px;
+}
+
+.title-image:hover {
+  opacity: 0.5;
+  border: 5px solid #a1cae2;
+}
+
+.tourList {
+  background-color: white;
+  padding-top: 25px;
+  padding-bottom: 40px;
+}
+
+.pricing-column {
+
+  min-width: 300px;
+  flex-shrink: none;
+  }
+
+
+
+/* row პროცენტულობის შემცირების ხარჯზე, მცირდება background ზომა და მიიღევა
+ჩარჩოების ეფექტი * ლამაზი ფონით/*/
+.row {
+  text-align: center;
+  width: 950px;
+  margin: auto;
+  background-color: #e8eae6;
+  flex-shrink: none;
+}
+
+.card {
+  min-width: 280px;
+  margin: 20px auto 40px;
+  border: none;
+
+}
+
+.sun-image {
+  width: 400px;
+  position: absolute;
+  margin: 200px 750px;
+  opacity: 0.5;
+}
+
+.birds2-image {
+  width: 200px;
+  position: absolute;
+  margin-top: 150px;
+  margin-left: -150px;
+  opacity: 0.5;
+}
+
+.birds3-image {
+  margin-top: 230px;
+  width: 200px;
+  opacity: 0.5;
+  margin-left: 300px;
+  position: absolute;
+}
+
+h5 {
+  font-family: Handlee;
+  font-size: 30px;
+  padding-bottom: 20px;
+}
+
+.btn btn-outline-success {
+  border-radius: 15px;
+}
+
+.social {
+  text-align: center;
+  background-color: #cfdac8;
+  width: 100%;
+}
+
+.card-img-top {
+  margin-top: 50px;
+  width: 250px;
+  height: 250px;
+  border-radius: 100%;
+  margin: 50px auto;
+}
+
+/*kutaisi city tour*/
+.main-line {
+  margin-left: 0;
+  border: none;
+  background-color: #94b5c0;
+  height: 5px;
+  width: 80%;
+}
+
+.wish {
+  font-family: Allura;
+  font-size: 30px;
+}
+
+.tour-description {
+  width: 80%;
+  text-align: justify;
+  padding-top: 25px;
+}
+
+.tour-image {
+  padding-top: 50px;
+  padding-right: 78px;
+}
+
+.highlights {
+  padding: 20px 0;
+}
+
+.travel-information {
+  padding: 20px;
+}
+
+.svaneti {
+  padding-top: 20px;
+}
+
+.social-icon {
+  margin: 20px 10px;
+  padding-left: 5px;
+}
+
+/* populars destinationa */
+h2 {
+  text-align: center;
+  padding-top: 50px;
+  font-family: Handlee;
+}
+
+.region-image {
+  width: 80%;
+}
+
+.home-icon {
+  width: 300px;
+  position: fixed;
+  margin: 300px 1000px;
+}
